@@ -1,0 +1,118 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+; Repository: https://github.com/nekitosp/switchyomega-rules
+
+;;; Popular, social
+; Discord
+*.discord.gg
+*.discord.com
+*.discordapp.com
+*.discordapp.net
+
+; FB, Instagram, Threads
+*.instagram.com
+*.cdninstagram.com
+*.threads.net
+*.threads.com
+*.fbcdn.net
+
+; Google, YouTube
+*.gstatic.com
+*.ggpht.com
+*.youtube.com
+*.ytimg.com
+*.googlevideo.com
+*.youtu.be
+
+; Twitter / X
+*.twimg.com
+*.x.com
+*.twitter.com
+*.t.co
+*.ads-twitter.com
+
+
+
+;;; AI
+; Claude
+*.claude.ai
+*.anthropic.com
+
+; OpenAI, ChatGPT
+*.oaistatic.com
+*.chatgpt.com
+*.openai.com
+*.oaiusercontent.com
+
+
+
+;;; Streaming, Media
+; SoundCloud
+*.soundcloud.com
+
+; Spotify
+*.spotify.com
+*.scdn.co
+*.spotifycdn.com
+
+
+
+;;; Torrent
+*.rutracker.org
+*.thepiratebay.org
+*.rutor.is
+
+
+
+;;; Other sites
+; AnyType
+*.anytype.io
+
+; Buf
+*.buf.build
+
+; Bukkit
+*.bukkit.org
+
+; Dell
+*.dell.com
+*.dellcdn.com
+
+; Digital Ocean
+*.digitalocean.com
+
+; Docker Hub
+*.docker.com
+
+; Intel
+*.intel.com
+
+; Mangadex
+*.mangadex.org
+
+; Medium
+*.medium.com
+
+; MongoDB
+*.mongodb.com
+
+; Proton
+*.protonmail.com
+*.proton.me
+
+; Swagger Docs
+*.swagger.io
+
+; Know Your Meme
+*.knowyourmeme.com
+
+; Quora
+*.quora.com
+
+; Redis
+*.redis.io
+
+; Other
+*.ntc.party
+*.test-english.com
