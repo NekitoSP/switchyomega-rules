@@ -85,6 +85,10 @@
 ; Docker Hub
 *.docker.com
 
+; Github
+*.github.com
+*.githubcopilot.com
+
 ; Intel
 *.intel.com
 
